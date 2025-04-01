@@ -1,4 +1,4 @@
-from sqlalchemy import Session
+from sqlalchemy.orm import Session
 from backend.models.meal import Meal 
 
 def create_meal(db:Session, name:str,ingredients:str,calories:int, protein:int,fat:int,carbs:int):
