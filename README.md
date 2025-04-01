@@ -36,4 +36,3 @@ A modern web application designed to help users live healthier lives by offering
 - **Cloud-Ready:** Designed for containerized cloud deployment
 
 ---
-
